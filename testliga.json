@@ -1,0 +1,25 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "name": "FC Teststadt",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_Club.png"
+    },
+    {
+      "id": 2,
+      "name": "SV Beispiel",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Soccer_club_logo.png"
+    }
+  ],
+  "league": {
+    "name": "Testliga",
+    "teams": [1, 2],
+    "schedule": [
+      {
+        "home": 1,
+        "away": 2,
+        "date": "2025-07-01"
+      }
+    ]
+  }
+}
